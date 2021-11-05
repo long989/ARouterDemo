@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ARouterDemo</string>
+    <string name="degrade_des">错误提示</string>
+    <string name="refresh">刷新</string>
+</resources>
